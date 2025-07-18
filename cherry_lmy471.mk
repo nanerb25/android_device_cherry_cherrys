@@ -1,5 +1,5 @@
 # Inherit device configuration
-$(call inherit-product, device/cherry/x300/device.mk)
+$(call inherit-product, device/cherry/lmy471/device.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := LMY471
