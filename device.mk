@@ -1,4 +1,4 @@
-LOCAL_PATH := device/cherry/x300
+LOCAL_PATH := device/cherry/lmy471
 
 ifeq ($(TARGET_PREBUILT_KERNEL),)
 	LOCAL_KERNEL := $(LOCAL_PATH)/kernel
