@@ -1,1 +1,1 @@
-add_lunch_combo cherry_x300-eng
+add_lunch_combo cherry_lmy471-eng
